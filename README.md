@@ -11,11 +11,14 @@ Deployment
 To deploy smart contracts to local network do the following steps:
 
 Go to the smart contract folder and run truffle console:
+
 $ cd Shakedown0xEscrowContract
 $ npm install
 $ truffle develop
 Inside truffle console, invoke "migrate" command to deploy contracts:
 truffle> migrate
+
+
 How to test
 Open the terminal and run the following commands:
 
