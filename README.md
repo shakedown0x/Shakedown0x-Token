@@ -1,8 +1,5 @@
 # Shakedown0x
 
-Welcome to the new age of information. 
-
-
 Escrow contract based on Zeppelin Contracts
 
 Requirements
